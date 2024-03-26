@@ -55,7 +55,7 @@
     "@metaplex-foundation/js": "0.17.5",
     "@metaplex-foundation/mpl-token-metadata": "~2.5.1",
     "@mithraic-labs/serum-remote": "0.0.2",
-    "@next/bundle-analyzer": "12.1.5",
+    "@next/bundle-analyzer": "12.3.4",
     "@nivo/bar": "0.79.1",
     "@nivo/core": "0.79.0",
     "@notifi-network/notifi-react-hooks": "0.18.2",

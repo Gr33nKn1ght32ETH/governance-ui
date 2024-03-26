@@ -2299,10 +2299,10 @@
   resolved "https://registry.yarnpkg.com/@mithraic-labs/serum-remote/-/serum-remote-0.0.2.tgz#f21ac6100b1af042982cc604fb2e2be1be957b3c"
   integrity sha512-vqRNASDnriZhT19kN2Fi/gkmjnf0ayVONBo7eGJueCOUdwIHy3shb0mXEtmORIFdSPh4MD3P2gzVmbCtI2eGOQ==
 
-"@next/bundle-analyzer@12.1.5":
-  version "12.1.5"
-  resolved "https://registry.yarnpkg.com/@next/bundle-analyzer/-/bundle-analyzer-12.1.5.tgz#07079b892efe0a2a7e8add703ad7cacfa3cc4e88"
-  integrity sha512-A9MkhWCPvSp1vl0Ox7IjJ/qpugDC5YAb40btGGIPPXHQtkal107Sf8dbay4fqw4Hekee5gdS0WUMfe1BaSur7w==
+"@next/bundle-analyzer@12.3.4":
+  version "12.3.4"
+  resolved "https://registry.yarnpkg.com/@next/bundle-analyzer/-/bundle-analyzer-12.3.4.tgz#37c587525288a3dea64213c991590532246e8bb8"
+  integrity sha512-eKjgRICzbLTmod0UnJcArFVs5uEAiuZwB6NCf84m+btW7jdylUVoOYf1wi5tA14xk5L9Lho7Prm6/XJ8gxYzfQ==
   dependencies:
     webpack-bundle-analyzer "4.3.0"
 
