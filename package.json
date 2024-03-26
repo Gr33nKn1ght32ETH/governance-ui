@@ -46,7 +46,7 @@
     "@everlend/general-pool": "0.0.27",
     "@foresight-tmp/foresight-sdk": "0.1.46",
     "@friktion-labs/friktion-sdk": "1.1.118",
-    "@headlessui/react": "1.6.6",
+    "@headlessui/react": "1.7.18",
     "@heroicons/react": "1.0.6",
     "@hookform/resolvers": "2.8.10",
     "@identity.com/sol-did-client": "3.1.4",
