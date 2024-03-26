@@ -58,7 +58,7 @@
     "@next/bundle-analyzer": "12.1.5",
     "@nivo/bar": "0.79.1",
     "@nivo/core": "0.79.0",
-    "@notifi-network/notifi-react-hooks": "0.18.2",
+    "@notifi-network/notifi-react-hooks": "0.90.8",
     "@project-serum/anchor": "0.24.2",
     "@project-serum/borsh": "0.2.5",
     "@project-serum/common": "0.0.1-beta.3",
