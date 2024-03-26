@@ -37,7 +37,7 @@
     "@castlefinance/vault-core": "0.1.3",
     "@castlefinance/vault-sdk": "2.1.2",
     "@civic/profile": "0.1.2",
-    "@civic/solana-gateway-react": "0.11.0",
+    "@civic/solana-gateway-react": "0.16.10",
     "@dialectlabs/react-sdk-blockchain-solana": "1.0.0-beta.3",
     "@dialectlabs/react-ui": "1.1.0-beta.5",
     "@dual-finance/staking-options": "0.0.10",
